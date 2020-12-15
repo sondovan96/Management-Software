@@ -1,0 +1,8 @@
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DTO_QuanLy\bin\Release\DTO_QuanLy.dll
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DTO_QuanLy\bin\Release\DTO_QuanLy.pdb
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DTO_QuanLy\obj\Release\DTO_QuanLy.dll
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DTO_QuanLy\obj\Release\DTO_QuanLy.pdb
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DTO_QuanLy\bin\Release\DTO_QuanLy.dll
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DTO_QuanLy\bin\Release\DTO_QuanLy.pdb
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DTO_QuanLy\obj\Release\DTO_QuanLy.dll
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DTO_QuanLy\obj\Release\DTO_QuanLy.pdb

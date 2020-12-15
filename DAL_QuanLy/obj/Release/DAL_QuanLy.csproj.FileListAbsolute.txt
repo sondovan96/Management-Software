@@ -1,0 +1,15 @@
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DAL_QuanLy.dll
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DAL_QuanLy.pdb
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DTO_QuanLy.dll
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DTO_QuanLy.pdb
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DAL_QuanLy\obj\Release\DAL_QuanLy.csprojResolveAssemblyReference.cache
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DAL_QuanLy\obj\Release\DAL_QuanLy.dll
+D:\dovanson\DoAn_MonHoc\QUANLY_CATRUC\DAL_QuanLy\obj\Release\DAL_QuanLy.pdb
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DAL_QuanLy.dll
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DAL_QuanLy.pdb
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DTO_QuanLy.dll
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\bin\Release\DTO_QuanLy.pdb
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\obj\Release\DAL_QuanLy.csprojAssemblyReference.cache
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\obj\Release\DAL_QuanLy.csproj.CopyComplete
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\obj\Release\DAL_QuanLy.dll
+D:\C#\DoAnMonHoc\QUANLY_CATRUC\DAL_QuanLy\obj\Release\DAL_QuanLy.pdb

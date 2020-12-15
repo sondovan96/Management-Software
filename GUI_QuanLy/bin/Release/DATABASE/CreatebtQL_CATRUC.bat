@@ -1,0 +1,1 @@
+SQLCMD -S . -E -i QL_CATRUC_NEW.sql
